@@ -1,0 +1,5 @@
+﻿  SeqStack.c
+e:\projects\c++\visual studio\practice\栈的顺序存储\栈的顺序存储\seqstack.c(60): warning C4098: “Pop_SeqStack”:“void”函数返回值
+e:\projects\c++\visual studio\practice\栈的顺序存储\栈的顺序存储\seqstack.c(65): warning C4098: “Pop_SeqStack”:“void”函数返回值
+  栈的顺序存储.vcxproj -> E:\Projects\C++\Visual Studio\Practice\栈的顺序存储\x64\Debug\栈的顺序存储.exe
+  栈的顺序存储.vcxproj -> E:\Projects\C++\Visual Studio\Practice\栈的顺序存储\x64\Debug\栈的顺序存储.pdb (Partial PDB)

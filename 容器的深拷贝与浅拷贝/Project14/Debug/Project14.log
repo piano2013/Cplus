@@ -1,0 +1,2 @@
+﻿  main.cpp
+e:\projects\c++\visual studio\practice\project14\project14\main.cpp(13): error C2660: “strcpy_s”: 函数不接受 2 个参数

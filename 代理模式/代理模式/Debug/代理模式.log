@@ -1,0 +1,2 @@
+﻿  main.cpp
+e:\projects\c++\visual studio\practice\代理模式\代理模式\main.cpp(39): error C3867: “MySystemProxy::checkUsernameAndPassword”: 非标准语法；请使用 "&" 来创建指向成员的指针

@@ -1,0 +1,5 @@
+﻿  main.c
+e:\projects\c++\visual studio\practice\二叉树_求树的深度\二叉树_求树的深度\main.c(21): warning C4013: “CountDeepth_left”未定义；假设外部返回 int
+e:\projects\c++\visual studio\practice\二叉树_求树的深度\二叉树_求树的深度\main.c(22): warning C4013: “CountDeepth_right”未定义；假设外部返回 int
+e:\projects\c++\visual studio\practice\二叉树_求树的深度\二叉树_求树的深度\main.c(29): error C2371: “CountDeepth_left”: 重定义；不同的基类型
+e:\projects\c++\visual studio\practice\二叉树_求树的深度\二叉树_求树的深度\main.c(45): error C2371: “CountDeepth_right”: 重定义；不同的基类型

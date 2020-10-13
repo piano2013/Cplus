@@ -1,0 +1,6 @@
+﻿  main.c
+e:\projects\c++\visual studio\practice\约瑟夫问题\约瑟夫问题\main.c(29): warning C4098: “MyCompare”:“void”函数返回值
+e:\projects\c++\visual studio\practice\约瑟夫问题\约瑟夫问题\main.c(31): warning C4098: “MyCompare”:“void”函数返回值
+e:\projects\c++\visual studio\practice\约瑟夫问题\约瑟夫问题\main.c(64): warning C4133: “函数”: 从“void (__cdecl *)(CircleLinkNode *,CircleLinkNode *)”到“COMPARENODE”的类型不兼容
+  约瑟夫问题.vcxproj -> E:\Projects\C++\Visual Studio\Practice\约瑟夫问题\x64\Debug\约瑟夫问题.exe
+  约瑟夫问题.vcxproj -> E:\Projects\C++\Visual Studio\Practice\约瑟夫问题\x64\Debug\约瑟夫问题.pdb (Partial PDB)

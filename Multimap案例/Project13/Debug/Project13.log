@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\projects\c++\visual studio\practice\project13\project13\main.cpp(70): error C3861: “ShowGroupWorkers”: 找不到标识符
+e:\projects\c++\visual studio\practice\project13\project13\main.cpp(72): error C3861: “ShowGroupWorkers”: 找不到标识符
+e:\projects\c++\visual studio\practice\project13\project13\main.cpp(74): error C3861: “ShowGroupWorkers”: 找不到标识符

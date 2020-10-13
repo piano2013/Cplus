@@ -1,0 +1,4 @@
+﻿  main.c
+e:\projects\c++\visual studio\practice\排序算法\3插入排序\main.c(14): warning C4244: “return”: 从“time_t”转换到“long”，可能丢失数据
+  3插入排序.vcxproj -> E:\Projects\C++\Visual Studio\Practice\排序算法\x64\Debug\3插入排序.exe
+  3插入排序.vcxproj -> E:\Projects\C++\Visual Studio\Practice\排序算法\x64\Debug\3插入排序.pdb (Partial PDB)

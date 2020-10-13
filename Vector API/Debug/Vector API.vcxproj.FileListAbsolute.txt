@@ -1,0 +1,4 @@
+E:\Projects\C++\Visual Studio\C++_practise\Cplus\Vector API\Vector API\Debug\Vector API.exe
+E:\Projects\C++\Visual Studio\C++_practise\Cplus\Vector API\Vector API\Debug\Vector API.pdb
+E:\Projects\C++\Visual Studio\C++_practise\Vector API\Debug\Vector API.exe
+E:\Projects\C++\Visual Studio\C++_practise\Vector API\Debug\Vector API.pdb

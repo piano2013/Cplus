@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\projects\c++\visual studio\practice\vector\project1\main.cpp(99): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> E:\Projects\C++\Visual Studio\Practice\Vector\x64\Debug\Project1.exe
+  Project1.vcxproj -> E:\Projects\C++\Visual Studio\Practice\Vector\x64\Debug\Project1.pdb (Partial PDB)
